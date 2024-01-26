@@ -25,16 +25,16 @@ I am a Ph.D. Candidate in [Water Resource Engineering](https://ce.gatech.edu/aca
 
 Research interests:
 ======
-My research is at the intersection of data science, machine learning, and traditional physics. Specifically, I employ physics-informed deep learning techniques to tackle complex groundwater inverse problems, particularly those related to hydraulic tomography. This involves leveraging both data-driven approaches and fundamental physical principles to train neural networks for parameter estimation in subsurface environments. 
+My research is at the intersection of data science, machine learning, and traditional physics. Specifically, I employ physics-informed deep learning and scientific AI techniques to tackle complex groundwater inverse problems, particularly those related to hydraulic tomography. This involves leveraging both data-driven approaches and fundamental physical principles to train neural networks for parameter estimation in subsurface environments. 
 
 My current research focuses on several key areas:
 
-* __Physics-Informed Neural Networks__: Developing neural networks with combining physics-based knowledge to enhance predictive robustness.
+* __Physics-Informed Neural Networks__: Combining physics-based knowledge to train neural networks with sparse data while enhancing generality and robustness.
 
-* __Neural Operators and Surrogate Forward Models__: Exploring the use of neural operators to efficiently simulate complex physical processes.
+* __Neural Operators__: Exploring the use of neural operators as surrogate forward models to efficiently solve high-dimensional PDE and simulate physical process. 
 
-* __Generative Modeling__: Implementing AI generative model for encoding complicated subsurface structures.
+* __Generative Modeling__: Implementing AI generative models like MoCoGAN, StyleGAN, Normalizing Flow, etc to recognize and encode content and motion of images and videos, specifically for subsurface realizations.
 
-* __Bayesian Analysis and Random Fields__: Employing Bayesian analysis and random fields to model uncertainty and variability in geospatial data.
+* __Bayesian Analysis and High-Performance Computing__: Employing Bayesian analysis and high-performance computing to expedite numerical inverse optimization and uncertainty quantification.
 
-* __High-Performance Computing__: Utilizing high-performance computing resources to expedite data processing and model training.
+* __Big data and Cloud Computing__: Developing Spark and Hadoop softwares for multi-source data assimilation and geospatial feature engineering 
