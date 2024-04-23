@@ -12,7 +12,7 @@ Education
 ======
 * B.S. in Ecology, Xiamen University, 2012 - 2016
 * M.S. in Environmental Engineering, Georgia Institute of Technology, 2016 – 2017
-* M.S. in Environmental Engineering, Georgia Institute of Technology, 2017 – 2018 
+* M.S. in Computer Engineering, Georgia Institute of Technology, 2017 – 2018 
 * Ph.D in Water Resource Engineering, Georgia Institute of Technology, 2019 – Now
 
 Teaching
@@ -40,13 +40,13 @@ Work experience
   
 Skills
 ======
-* Programming: Python, Java, C/C++, MATLAB
-* Big Data: PySpark, Hadoop, Scala, Hive, Pig, Hbase
+* Programming: Python, Java, C/C++, MATLAB, R, Julia.
+* ML/DL/AI: Pytorch, Tensorflow, Scikit-learn, Jax, Keras, CUDA.
+* Big Data: PySpark, Hadoop, MapReduce, Scala, Hive, Pig, Hbase
 * Cloud Computing: AWS, Azure, Google Cloud Platform, LAMBDA
-* Data Analysis: R, MySQL, Numpy, Pandas
-* ML/DL/AI: CUDA, Pytorch, Tensorflow, Scikit-learn, Comet-ML
+* Data Analysis and Visulization: MySQL, Numpy, Pandas, Matplotlib, Plotly, Grafana.
 * CI/CD: Git, Docker, Azure DevOps, Google Container Registry, Bitbucket, Gitlab
-  
+
 Service and leadership
 ======
 * Currently served as reviewer for Water Resources Research, Journal of Hydrology, etc.
