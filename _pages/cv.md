@@ -18,13 +18,10 @@ Education
 Teaching
 ======
 * Georgia Tech CSE 6250 Big Data for Healthcare
-  * Since 2020
-  * Head TA
+  * Head TA since Fall 2020
 
 * Georgia Tech CEE 4200 Hydraulic Engineering
-  * Spring 2019, Spring 2020
-  * Lab Instructor
-  <!-- * Supervisor: Dr. Jeff Miles-->
+  * Lab Instructor in Spring 2019, Spring 2020
 
 Work experience
 ======
@@ -36,7 +33,7 @@ Work experience
 * Summer 2018: Machine Learning Engineer
   * Ping An Insurance Co. Beijing, China 
   * Duties included: implement machine learning models for disease prediction.
-  <!-- * Supervisor: Dr. Jeff Miles-->
+  <!-- * Supervisor: Dr. Xiang Li-->
   
 Skills
 ======
