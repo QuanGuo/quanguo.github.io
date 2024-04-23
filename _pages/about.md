@@ -14,13 +14,14 @@ I am a Ph.D. Candidate in [Water Resource Engineering](https://ce.gatech.edu/aca
 
 ### What kind of person I am:
 
-*	Passionate cross-disciplinary researcher in Data Science and Computer Engineering, dedicated to utilizing AI and machine learning to solve scientific problems and construct digital twins.
-*	Over 5 years of experience in Python, proficient in writing clear and well-organized code, and deeply committed to continuous learning as the need arises.
-*	Navigating the data science realm with using two key pillars: statistical analysis and guided background knowledge. Combining science and AI to make robust and accurate predictions from data.
+*	Passionate cross-disciplinary researcher in Physics and Machine Learning, dedicated to utilizing AI and machine learning to solve scientific problems and construct digital twins.
+*	Over 5 years of experience in Python, proficient in Research and Development (R&D), and deeply committed to continuous learning for efficient continuous integration and continuous deployment (CI/CD).
+*	Combining traditional domain knowledge and statistical analysis with modern big data and AI to make robust, scaling and trustworthy predictive models.
+
 
 ### Don't hesitate to contact me:
 
-*	Email: qguo48@gatech.edu
+*	Email: qguo48@gatech.edu or qguo48@hotmail.com
 *	Office: Jesse W. Mason Building, Room 2230, 790 Atlantic Dr NW, Atlanta, GA 30332.
 
 Research interests:
