@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=n2szrYAAAAAJ&hl=en).
 
-*** Peer Reviewed Papers ***
+***Peer Reviewed Papers***
 
 **Predictive Deep Learning for High-Dimensional Inverse Modeling of Hydraulic Tomography in Gaussian and Non-Gaussian Fields**       
 <ins>Guo, Q.</ins>, Liu, M., & Luo, J. (2023)       
@@ -34,7 +34,7 @@ In: Water Resources Research, 60, doi: [https://doi.org/10.1029/2022WR032610](
 <ins>Guo, Q.</ins>, He, Y., Liu, M., Zhao, Y., Liu, Y., & Luo, J.       
 [under review]  
 
-*** Invited Presentations ***
+***Invited Presentations***
 
 **Large-scale Inverse Modeling of Hydraulic Tomography by Physics Informed Neural Network**           
 In: AGU Fall Meeting, Chicago, IL, December 2022   
