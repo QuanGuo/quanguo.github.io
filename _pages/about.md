@@ -10,7 +10,7 @@ redirect_from:
 
 About me:
 ======
-I am a Ph.D. Candidate in [Water Resource Engineering](https://ce.gatech.edu/academics/groups/water) at [Georgia Institute of Technology](https://www.gatech.edu/) (Georgia Tech) , advised by [Prof. Jian Luo](https://ce.gatech.edu/directory/person/jian-luo). Before starting my Ph.D., I already earned two MS degrees of [Environmental Engineering](https://ce.gatech.edu/academics/groups/environmental) and [Computational Science & Engineering](https://cse.gatech.edu/) from Georgia Tech.
+I am a Ph.D of [Water Resource Engineering](https://ce.gatech.edu/academics/groups/water) from [Georgia Institute of Technology](https://www.gatech.edu/) (Georgia Tech) , advised by [Prof. Jian Luo](https://ce.gatech.edu/directory/person/jian-luo). Before starting my Ph.D., I already earned two MS degrees of [Environmental Engineering](https://ce.gatech.edu/academics/groups/environmental) and [Computational Science & Engineering](https://cse.gatech.edu/) from Georgia Tech.
 
 ### What kind of person I am:
 
