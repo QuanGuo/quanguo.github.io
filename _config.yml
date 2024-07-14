@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Quan Guo"
   avatar           : "Facetune_06-11-2023-14-30-29.png"
-  bio              : "PhD Candidate at Georgia Tech"
-  location         : "Atlanta, GA"
+  bio              : "Postdoc at LANL"
+  location         : "Los Alamos, NM"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n2szrYAAAAAJ&hl=en"
-  email            : "qguo48@gatech.edu"
+  email            : "qguo48@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "GQSavannah"
+  facebook         : #"GQSavannah"
   foursquare       :
   github           : "QuanGuo"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "gqsavannah70351"
+  twitter          : #"gqsavannah70351"
   vine             :
   weibo            :
   xing             :
