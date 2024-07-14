@@ -25,6 +25,10 @@ Teaching
 
 Work experience
 ======
+* Now: Postdoc
+  * Los Alamos National Lab, Los Alamos, NM
+  * Duties included: CO2 pipeline modeling and optimization, machine learning for subsurface modeling.
+
 * Summer 2023: Machine Learning Research Intern
   * Schlumberger-Doll Research, Cambridge, MA
   * Duties included: find end-to-end AI solution for carbon capture and sequestration in 3D subsurface environment.

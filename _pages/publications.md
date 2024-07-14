@@ -10,6 +10,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 **_Peer Reviewed Papers_**
 
+**Reduced geostatistical approach with a Fourier neural operator surrogate model for inverse modeling of hydraulic tomography**            
+<ins>Guo, Q.</ins>, He, Y., Liu, M., Zhao, Y., Liu, Y., & Luo, J.      
+In: Water Resources Research,, 59, doi: [https://doi.org/10.1029/2023WR034939](https://doi.org/10.1029/2023WR034939).          
+[[paper]](http://quanguo.github.io/files/RGA+FNO.pdf) [[code]](https://github.com/QuanGuo/RGA-FNO-HT-INV) 
+
 **Predictive Deep Learning for High-Dimensional Inverse Modeling of Hydraulic Tomography in Gaussian and Non-Gaussian Fields**       
 <ins>Guo, Q.</ins>, Liu, M., & Luo, J. (2023)       
 In: Water Resources Research,, 59, doi: [https://doi.org/10.1029/2023WR035408](https://doi.org/10.1029/2023WR035408).          
@@ -29,10 +34,6 @@ In: Water Resources Research, 58, doi: [https://doi.org/10.1029/2022WR032610](
 He, Y., <ins>Guo, Q.</ins>, Liu, Y., Huang, H., Hou, D., & Luo, J. (2024).       
 In: Water Resources Research, 60, doi: [https://doi.org/10.1029/2022WR032610](https://doi.org/10.1029/2023WR035453). 
 [[paper]](http://quanguo.github.io/files/multiphysics.pdf) [[data]](https://doi.org/10.5281/zenodo.8217685)
-
-**Reduced geostatistical approach with a Fourier neural operator surrogate model for inverse modeling of hydraulic tomography**            
-<ins>Guo, Q.</ins>, He, Y., Liu, M., Zhao, Y., Liu, Y., & Luo, J.       
-In: Water Resources Research, [Accepted]. 
 
 **_Invited Presentations_**
 

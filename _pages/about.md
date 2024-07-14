@@ -10,7 +10,7 @@ redirect_from:
 
 About me:
 ======
-I am a Ph.D of [Water Resource Engineering](https://ce.gatech.edu/academics/groups/water) from [Georgia Institute of Technology](https://www.gatech.edu/) (Georgia Tech) , advised by [Prof. Jian Luo](https://ce.gatech.edu/directory/person/jian-luo). Before starting my Ph.D., I already earned two MS degrees of [Environmental Engineering](https://ce.gatech.edu/academics/groups/environmental) and [Computational Science & Engineering](https://cse.gatech.edu/) from Georgia Tech.
+I am a Postdoc in Los Alamos National Lab (LANL). Before coming to LANL, I studied in [Georgia Institute of Technology](https://www.gatech.edu/) (Georgia Tech) where I obtained a Ph.D of [Water Resource Engineering](https://ce.gatech.edu/academics/groups/water) (advised by [Prof. Jian Luo](https://ce.gatech.edu/directory/person/jian-luo)) and Masters of [Environmental Engineering](https://ce.gatech.edu/academics/groups/environmental) and [Computational Science & Engineering](https://cse.gatech.edu/).
 
 ### What kind of person I am:
 
@@ -21,8 +21,7 @@ I am a Ph.D of [Water Resource Engineering](https://ce.gatech.edu/academics/grou
 
 ### Don't hesitate to contact me:
 
-*	Email: qguo48@gatech.edu or qguo48@hotmail.com
-*	Office: Jesse W. Mason Building, Room 2230, 790 Atlantic Dr NW, Atlanta, GA 30332.
+*	Email: qguo48@hotmail.com
 
 Research interests:
 ======
