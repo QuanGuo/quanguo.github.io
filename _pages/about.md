@@ -15,7 +15,7 @@ I am a Postdoc in Los Alamos National Lab (LANL). Before coming to LANL, I studi
 ### What kind of person I am:
 
 *	Passionate cross-disciplinary researcher in Physics and Machine Learning, dedicated to utilizing AI and machine learning to solve scientific problems and construct digital twins.
-*	Over 5 years of experience in Python, proficient in Research and Development (R&D), and deeply committed to continuous learning for efficient continuous integration and continuous deployment (CI/CD).
+*	Python Research and Development (R&D) since 2018, and deeply committed to continuous learning for efficient continuous integration and continuous deployment (CI/CD).
 *	Combining traditional domain knowledge and statistical analysis with modern big data and AI to make robust, scaling and trustworthy predictive models.
 
 
@@ -25,9 +25,9 @@ I am a Postdoc in Los Alamos National Lab (LANL). Before coming to LANL, I studi
 
 Research interests:
 ======
-My research is at the intersection of data science, machine learning, and traditional physics. Specifically, I employ physics-informed deep learning and scientific AI techniques to tackle complex groundwater inverse problems, particularly those related to hydraulic tomography. This involves leveraging both data-driven approaches and fundamental physical principles to train neural networks for parameter estimation in subsurface environments. 
+My research is at the intersection of data science, machine learning, and traditional physics. Specifically, I employ physics-informed deep learning and scientific AI techniques to tackle geophysics inverse problems, particularly those related to groundwater. Here are some methods I am using:
 
-My current research focuses on several key areas:
+<!-- This involves leveraging both data-driven approaches and fundamental physical principles to train neural networks for parameter estimation in subsurface environments.  -->
 
 * __Physics-Informed Neural Networks__: Combining physics-based knowledge to train neural networks with sparse data while enhancing generality and robustness.
 
