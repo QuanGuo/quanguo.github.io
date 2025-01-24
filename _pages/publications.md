@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=n2szrYAAAAAJ&hl=en).
 
-**_Peer Reviewed Papers_**
+**_Journal Papers_**
 
 **Reduced geostatistical approach with a Fourier neural operator surrogate model for inverse modeling of hydraulic tomography**            
 <ins>Guo, Q.</ins>, He, Y., Liu, M., Zhao, Y., Liu, Y., & Luo, J.      
@@ -35,16 +35,30 @@ He, Y., <ins>Guo, Q.</ins>, Liu, Y., Huang, H., Hou, D., & Luo, J. (2024).
 *Water Resources Research*, 60, doi: [https://doi.org/10.1029/2022WR032610](https://doi.org/10.1029/2023WR035453). 
 [[paper]](http://quanguo.github.io/files/multiphysics.pdf) [[data]](https://doi.org/10.5281/zenodo.8217685)
 
-**_Contributed Presentations_**
+**_Conference Proceedings_**
 
-**Large-scale Inverse Modeling of Hydraulic Tomography by Physics Informed Neural Network**           
+Chen, B., Ma, Z., Ahmmed, B., <ins>Guo, Q.</ins>, Li, W., Mehana, M., Meng, M., & Pawar, R. (2024), **Unified SimCCS Platform for Decision-Making in Carbon Capture, Transport, and Storage Infrastructure**, paper presented at Proceedings of the 17th Greenhouse Gas Control Technologies Conference (GHGT-17), 20-24 October 2024, doi: http://dx.doi.org/10.2139/ssrn.5030859.
+
+Ma, Z., <ins>Guo, Q.</ins>, Viswanathan, H., Pawar, R., & Chen, B. (2024), **Deep Learning Assisted History Matching and Forecasting: Applied to the Illinois Basin – Decatur Project (IBDP)**, paper presented at Proceedings of the 17th Greenhouse Gas Control Technologies Conference (GHGT-17), 20-24 October 2024, doi: http://dx.doi.org/10.2139/ssrn.5019810.
+
+
+**_Conference and Workshop Presentations_**
+
+[Poster] **An Innovative Method to Evaluate Cost of CO2 Shipping**
+In: CCUS 2025, Houston, TX, March 2025 
+
+[Poster] **Unified SimCCS Platform for Decision-Making in Carbon Capture, Transport, and Storage**
+In: CESAM 2024, Socorro, NM, November 2024
+
+[Presentation] **Large-scale Inverse Modeling of Hydraulic Tomography by Physics Informed Neural Network**           
 In: AGU Fall Meeting, Chicago, IL, December 2022   
-[[abstract]](http://quanguo.github.io/files/AGU_abstract.pdf) [[slides]](http://quanguo.github.io/files/AGU_pre_latest.pdf)  
+[[abstract]](http://quanguo.github.io/files/AGU_abstract.pdf)
+
+**_Invited Talks & Seminars_**
 
 **Physics informed neural network in groundwater inverse modeling**
 In: Georgia Tech Water Resource Engineering Seminar, Atlanta, GA, March 2022.
-[[slides]](http://quanguo.github.io/files/WRE_seminar.pdf) 
 
 **Scalable high-dimensional inverse modeling of hydraulic tomography by physics informed neural network (HT-PINN)**   
 In: National Environmental Conference for Doctoral Students, Beijing, China, January 2023
-[[slides]](http://quanguo.github.io/files/NEC_for_DS.pdf) 
+
