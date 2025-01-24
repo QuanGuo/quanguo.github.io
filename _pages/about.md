@@ -25,16 +25,14 @@ I am a Postdoc in Los Alamos National Lab (LANL). Before coming to LANL, I studi
 
 Research interests:
 ======
-My research is at the intersection of data science, machine learning, and traditional physics. Specifically, I employ physics-informed deep learning and scientific AI techniques to tackle geophysics inverse problems, particularly those related to groundwater. Here are some methods I am using:
+I am a versatile researcher specializing in physics simulations and AI-driven analysis, with expertise in numerical modeling, machine learning, and inference. My work focuses on leveraging advanced deep learning models to address challenges in spatio-temporal modeling and geophysical inference, aiming to bridge the gap between computational methods and real-world applications. My research spans several key areas:
 
 <!-- This involves leveraging both data-driven approaches and fundamental physical principles to train neural networks for parameter estimation in subsurface environments.  -->
 
-* __Physics-Informed Neural Networks__: Combining physics-based knowledge to train neural networks with sparse data while enhancing generality and robustness.
+* __Scientific Machine Learning__: Educating machine learning with physical knowledge to solve PDEs efficiently: physics informed neural networks, neural operators, etc.
 
-* __Neural Operators__: Exploring the use of neural operators as surrogate forward models to efficiently solve high-dimensional PDE and simulate physical process. 
+* __Bayesian Optimization & Inference__: Utilizing Bayesian and random fields to conduct dimensionality reduction and optimization for large-dimensional inverse problems.
 
-* __Generative Modeling__: Implementing AI generative models like MoCoGAN, StyleGAN, Normalizing Flow, etc to recognize and encode content and motion of images and videos, specifically for subsurface realizations.
+* __Domain Generalization__: Creating AI generative models to encode multiple distributions, supporting uncertainty quantification with broader prior assumptions.
 
-* __Bayesian Analysis and High-Performance Computing__: Employing Bayesian analysis and high-performance computing to expedite numerical inverse optimization and uncertainty quantification.
-
-* __Big data and Cloud Computing__: Developing Spark and Hadoop softwares for multi-source data assimilation and geospatial feature engineering 
+* __Digital Twin__: Developing Spark and Hadoop softwares for multi-source data assimilation and geospatial feature engineering Employing imaging and computer vision computer vision techniques to render invisible physical systems based on sensory data.
