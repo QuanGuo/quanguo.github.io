@@ -10,10 +10,10 @@ You can download my CV [here](http://quanguo.github.io/files/Quan_Guo_CV.pdf)
 
 Education
 ======
-* B.S. in Ecology, Xiamen University, 2012 - 2016
-* M.S. in Environmental Engineering, Georgia Institute of Technology, 2016 – 2017
+* Ph.D in Water Resource Engineering, Georgia Institute of Technology, 2019 – 2024
 * M.S. in Computer Engineering, Georgia Institute of Technology, 2017 – 2018 
-* Ph.D in Water Resource Engineering, Georgia Institute of Technology, 2019 – Now
+* M.S. in Environmental Engineering, Georgia Institute of Technology, 2016 – 2017
+* B.S. in Ecology, Xiamen University, 2012 - 2016
 
 Teaching
 ======
@@ -26,8 +26,8 @@ Teaching
 Work experience
 ======
 * Now: Postdoc
-  * Los Alamos National Lab, Los Alamos, NM
-  * Duties included: CO2 pipeline modeling and optimization, machine learning for subsurface modeling.
+  * Los Alamos National Laboratory, Los Alamos, NM
+  * Duties included: CO<sub>2</sub> squestration, [*SimCCS*](https://www.youtube.com/watch?v=YZtbfuKLI34) software development.
 
 * Summer 2023: Machine Learning Research Intern
   * Schlumberger-Doll Research, Cambridge, MA
@@ -50,4 +50,5 @@ Skills
 
 Service and leadership
 ======
-* Currently served as reviewer for Water Resources Research, Journal of Hydrology, etc.
+* Guest Editor, *Hydrology*, Special Issue: Advancing Hydrological Science through Artificial Intelligence: Innovations and Applications
+* Reviewer for Water Resources Research, Journal of Hydrology, SPE Journal etc.
